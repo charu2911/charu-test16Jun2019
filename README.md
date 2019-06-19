@@ -1,7 +1,6 @@
 # charu-test16Jun2019
 
 
-Hi..
-This is first day..
+WELCOME to WED..
 
-Thakns
+WELCOME
