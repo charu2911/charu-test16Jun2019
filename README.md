@@ -1,9 +1,4 @@
 # charu-test16Jun2019
 
 
-Github..
-Jenkins..
-Githiib..
-Jenkins..
-123
-123
+This is June end week.
